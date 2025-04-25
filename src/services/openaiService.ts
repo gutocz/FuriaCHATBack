@@ -9,8 +9,8 @@ const api = new OpenAI({ apiKey, baseURL });
 export async function translateMessage(message: string): Promise<string> {
   const prompt = `
     Sua função é identificar a intenção dessa mensagem: "${message}" de um fã da FURIA e convertê-la em um dos seguintes comandos:
-    /proximo — para saber o próximo jogo
-    /jogos — para saber os últimos jogos
+    /proximojogo — para saber o próximo jogo
+    /proximosjogos — para saber os últimos jogos
     /elenco — para saber os jogadores do time
     /ranking — para saber a posição no ranking
     /coach — para frases do técnico Guerri

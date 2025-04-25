@@ -6,7 +6,7 @@ import cors from 'cors';
 import chatRoutes from './routes/chat';
 
 const app = express();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 app.use(express.json());

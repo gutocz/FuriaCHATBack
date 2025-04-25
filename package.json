@@ -14,6 +14,8 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "liquipedia-api": "^1.0.10",
+    "liquipedia-csgo": "^1.0.7",
     "openai": "^4.96.0"
   },
   "devDependencies": {
