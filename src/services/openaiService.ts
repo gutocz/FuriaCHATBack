@@ -28,7 +28,7 @@ export async function translateMessage(message: string): Promise<string> {
       },
     ],
     temperature: 0,
-    max_tokens: 20,
+    max_tokens: 20, // Testar com mais tokens
   });
 
   const command = response.choices[0]?.message?.content?.trim();
