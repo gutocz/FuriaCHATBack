@@ -18,7 +18,7 @@ setInterval(() => {
 }, 60 * 60 * 1000); // 1h
 
 app.use(cors({
-  origin: ['http://localhost:5173', 'https://furia-chat-front.vercel.app/'],
+  origin: ['http://localhost:5173', 'https://furia-chat-front.vercel.app'],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true
 }));
