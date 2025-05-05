@@ -17,7 +17,11 @@ setInterval(() => {
   updateFuriaCache();
 }, 60 * 60 * 1000); // 1h
 
-app.use(cors());
+app.use(cors({
+  origin: ['http://localhost:5173'],
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  credentials: true
+}));
 app.use(express.json());
 
 app.use('/chat', chatRoutes);
