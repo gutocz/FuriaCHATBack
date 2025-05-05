@@ -1,0 +1,211 @@
+{
+  "organizationName": "FURIA",
+  "teamInfo": {
+    "location": "Brazil",
+    "region": "South America",
+    "founders": [
+      "Jaime Pádua",
+      "André Akkari",
+      "Cristian Guedes",
+      "Nicholas Nogueira"
+    ],
+    "ceo": [
+      "Jaime Pádua",
+      "André Akkari"
+    ],
+    "in-game_leader": "FalleN",
+    "coaches": [
+      "sidde",
+      "Hepa"
+    ],
+    "approx._total_winnings": "$2,044,173",
+    "games": "Global OffensiveCounter-Strike 2",
+    "created": ": 2017-08-10: 2017-08-10"
+  },
+  "roster": {
+    "active": [
+      {
+        "username": "yuurih",
+        "fullName": "Yuri Boian",
+        "joinDate": "Join Date: 2017-11-08 [6]"
+      },
+      {
+        "username": "KSCERATO",
+        "fullName": "Kaike Cerato",
+        "joinDate": "Join Date: 2018-02-06 [11]"
+      },
+      {
+        "username": "FalleN",
+        "fullName": "Gabriel Toledo",
+        "joinDate": "Join Date: 2023-07-03 [37]"
+      },
+      {
+        "username": "molodoy",
+        "fullName": "Danil Golubenko",
+        "joinDate": "Join Date: 2025-04-11 [45]"
+      },
+      {
+        "username": "YEKINDAR",
+        "fullName": "Mareks Gaļinskis",
+        "joinDate": "Join Date: 2025-04-22 [47]"
+      },
+      {
+        "username": "sidde",
+        "fullName": "Sidnei Macedo",
+        "joinDate": "Join Date: 2024-07-09 [41]"
+      }
+    ],
+    "inactive": [
+      {
+        "username": "skullz",
+        "fullName": "Felipe Medeiros",
+        "joinDate": "Join Date: 2024-07-09 [41]",
+        "inactiveDate": "Inactive Date: 2025-04-22 [46]"
+      },
+      {
+        "username": "chelo",
+        "fullName": "Marcelo Cespedes",
+        "joinDate": "Join Date: 2023-07-03 [38]",
+        "inactiveDate": "Inactive Date: 2025-04-11 [44]"
+      }
+    ],
+    "former": [
+      {
+        "username": "guerri",
+        "fullName": "Nicholas Nogueira"
+      },
+      {
+        "username": "arT",
+        "fullName": "Andrei Piovezan"
+      }
+    ]
+  },
+  "upcomingTournaments": [
+    {
+      "tournamentName": "PGL Astana 2025",
+      "date": "May 10 - 18"
+    },
+    {
+      "tournamentName": "Intel Extreme Masters Dallas 2025",
+      "date": "May 19 - 25"
+    },
+    {
+      "tournamentName": "BLAST.tv Austin Major 2025",
+      "date": "Jun 02 - 22"
+    }
+  ],
+  "matchHistory": {
+    "matches": [
+      {
+        "date": "Apr 09, 2025 - 15:50 EEST",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "PGL Bucharest 2025",
+        "participant": "FURIA",
+        "score": "0 : 2",
+        "opponent": "MongolZ",
+        "result": "lose"
+      },
+      {
+        "date": "Apr 08, 2025 - 12:05 EEST",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "PGL Bucharest 2025",
+        "participant": "FURIA",
+        "score": "0 : 2",
+        "opponent": "VP",
+        "result": "lose"
+      },
+      {
+        "date": "Apr 07, 2025 - 17:05 EEST",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "PGL Bucharest 2025",
+        "participant": "FURIA",
+        "score": "1 : 2",
+        "opponent": "COL",
+        "result": "lose"
+      },
+      {
+        "date": "Apr 06, 2025 - 18:35 EEST",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "PGL Bucharest 2025",
+        "participant": "FURIA",
+        "score": "2 : 0",
+        "opponent": "Apogee",
+        "result": "win"
+      },
+      {
+        "date": "Mar 22, 2025 - 14:20 CET",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "BLAST Open Spring 2025",
+        "participant": "FURIA",
+        "score": "1 : 2",
+        "opponent": "M80",
+        "result": "lose"
+      },
+      {
+        "date": "Mar 20, 2025 - 20:45 CET",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "BLAST Open Spring 2025",
+        "participant": "FURIA",
+        "score": "0 : 2",
+        "opponent": "NAVI",
+        "result": "lose"
+      },
+      {
+        "date": "Mar 10, 2025 - 19:00 CET",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "ESL Pro League Season 21: Stage 2",
+        "participant": "FURIA",
+        "score": "1 : 2",
+        "opponent": "Falcons",
+        "result": "lose"
+      },
+      {
+        "date": "Mar 09, 2025 - 18:00 CET",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "ESL Pro League Season 21: Stage 2",
+        "participant": "FURIA",
+        "score": "2 : 1",
+        "opponent": "MIBR",
+        "result": "win"
+      },
+      {
+        "date": "Mar 08, 2025 - 18:20 CET",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "ESL Pro League Season 21: Stage 2",
+        "participant": "FURIA",
+        "score": "0 : 2",
+        "opponent": "Liquid",
+        "result": "lose"
+      },
+      {
+        "date": "Mar 07, 2025 - 15:45 CET",
+        "tier": "S-Tier",
+        "type": "Offline",
+        "game": "Counter-Strike 2",
+        "tournament": "ESL Pro League Season 21: Stage 2",
+        "participant": "FURIA",
+        "score": "1 : 2",
+        "opponent": "MOUZ",
+        "result": "lose"
+      }
+    ]
+  }
+}
